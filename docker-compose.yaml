@@ -1,0 +1,33 @@
+version: '2'
+services:
+  api:
+    build: .
+    environment:
+      OPEN_FOOD_FACT_URL: https://world.openfoodfacts.org
+      DATABASE_URL: postgresql://admin:123456@database:5432/foodfact
+    ports:
+      - '3000:3000'
+    depends_on:
+      - database
+
+  database:
+    image: postgres
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: 123456
+      PG_DATA: "/data/db"
+    ports:
+      - '5433:5432'      
+    volumes:
+      - ./data:/data/db   
+      
+  metrics-dashboard:
+    image: dpage/pgadmin4
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: root
+    ports:
+      - '5050:80'
+
