@@ -1,0 +1,2012 @@
+{
+    "code": "7613035833272",
+    "product": {
+        "_id": "7613035833272",
+        "_keywords": [
+            "perrier",
+            "mit",
+            "kohlensaure",
+            "getranke",
+            "quellwasser",
+            "alkoholfreie",
+            "selterswasser",
+            "wasser",
+            "kohlensaurehaltige",
+            "ungezuckerte",
+            "gruner",
+            "mineralwasser",
+            "punkt"
+        ],
+        "added_countries_tags": [],
+        "additives_debug_tags": [],
+        "additives_n": 0,
+        "additives_old_n": 0,
+        "additives_old_tags": [],
+        "additives_original_tags": [],
+        "additives_prev_original_tags": [],
+        "additives_tags": [],
+        "allergens": "",
+        "allergens_from_ingredients": "",
+        "allergens_from_user": "(de) ",
+        "allergens_hierarchy": [],
+        "allergens_lc": "de",
+        "allergens_tags": [],
+        "amino_acids_prev_tags": [],
+        "amino_acids_tags": [],
+        "brands": "perrier",
+        "brands_tags": [
+            "perrier"
+        ],
+        "categories": "Getränke,Kohlensäurehaltige Getränke,Wasser,Quellwasser,Mineralwasser,Alkoholfreie Getränke,Selterswasser,Mineralwasser mit Kohlensäure,Ungezuckerte Getränke",
+        "categories_hierarchy": [
+            "en:beverages",
+            "en:carbonated-drinks",
+            "en:waters",
+            "en:spring-waters",
+            "en:mineral-waters",
+            "en:non-alcoholic-beverages",
+            "en:carbonated-waters",
+            "en:carbonated-mineral-waters",
+            "en:unsweetened-beverages"
+        ],
+        "categories_lc": "de",
+        "categories_old": "Beverages, Carbonated drinks, Waters, Spring waters, Mineral waters, Non-Alcoholic beverages, Carbonated waters, Carbonated mineral waters, Unsweetened beverages",
+        "categories_properties": {
+            "agribalyse_food_code:en": "18430",
+            "agribalyse_proxy_food_code:en": "76096",
+            "ciqual_food_code:en": "18046"
+        },
+        "categories_properties_tags": [
+            "all-products",
+            "categories-known",
+            "agribalyse-food-code-18430",
+            "agribalyse-food-code-known",
+            "agribalyse-proxy-food-code-76096",
+            "agribalyse-proxy-food-code-known",
+            "ciqual-food-code-18046",
+            "ciqual-food-code-known",
+            "agribalyse-known",
+            "agribalyse-18430"
+        ],
+        "categories_tags": [
+            "en:beverages",
+            "en:carbonated-drinks",
+            "en:waters",
+            "en:spring-waters",
+            "en:mineral-waters",
+            "en:non-alcoholic-beverages",
+            "en:carbonated-waters",
+            "en:carbonated-mineral-waters",
+            "en:unsweetened-beverages"
+        ],
+        "category_properties": {
+            "ciqual_food_name:en": "Water, mineral, carbonated, bottled -average-",
+            "ciqual_food_name:fr": "Eau minérale, gazeuse -aliment moyen-"
+        },
+        "checkers_tags": [],
+        "ciqual_food_name_tags": [
+            "water-mineral-carbonated-bottled-average"
+        ],
+        "cities_tags": [],
+        "code": "7613035833272",
+        "codes_tags": [
+            "code-13",
+            "7613035833xxx",
+            "761303583xxxx",
+            "76130358xxxxx",
+            "7613035xxxxxx",
+            "761303xxxxxxx",
+            "76130xxxxxxxx",
+            "7613xxxxxxxxx",
+            "761xxxxxxxxxx",
+            "76xxxxxxxxxxx",
+            "7xxxxxxxxxxxx"
+        ],
+        "compared_to_category": "en:unsweetened-beverages",
+        "complete": 0,
+        "completeness": 0.875,
+        "correctors_tags": [
+            "openfoodfacts-contributors",
+            "kiliweb",
+            "julie-yuka",
+            "yuka.ZHBrcUNJb0tpZUJYeThGdnIwaklwTjkwNVlQeVUwM3BPOU1kSVE9PQ",
+            "yuka.VzRvR05yaGN0cWdWb3MwbXBDait3OHRNNjVLQVFHaTNFY2dNSWc9PQ",
+            "yuka.UUk0ZlBiWXNnK1VybjhjUzEwTDdwT050NlllVkJHMm5JcklOSVE9PQ",
+            "yuka.V3BBSFBZMWZtUG9FdnN3NjBBUEh4UFZ3MTUrVUJWTzREdXRLSVE9PQ",
+            "yuka.UlBBdE1xSVFwTmdody9NNTUwNzcyczB2Mk0rb2R6MnZLY1l4SVE9PQ",
+            "yuka.V3J3R0lvZ3VqY0VUZ2N3a29Uek02djFObjU2VmZHNldFcm95SVE9PQ",
+            "yuka.ZXA0eEc0Z0YvS2cxby9JQXhqYko0dDk2MTdDa1RYK0ZCTzBySVE9PQ",
+            "yuka.VnBoUVFmUU52Zk1JaWNJUzFTTHQydTVQMTdPa2N6dXNDTzlPSVE9PQ",
+            "yuka.WHE4Y1A3WXFtdE1GbmN3TXBEblpvbzkxNUxtNGRIaXRGZGc2SVE9PQ",
+            "yuka.VFAwK0hhWTlnZlVPZ2ZJRjV3UG81K0J0bjVyM1dWK1VGN2MvSUE9PQ",
+            "floriane-yuka",
+            "yuka.UVAwTFRaVS9yZGdUdmZRYTl3Nkl3ZUlzN3FPS1gwS2NJdUF4SUE9PQ",
+            "yuka.Uktzd0Zyd2VtOUlEdGRzK3B3elAvL0pJMkpqM0JYaXdLZkJQSUE9PQ",
+            "yuka.UXZFQ1A0c2xvTVlGZ3NBaXp4WDZvZHhxN1pyMFdIUHBKYkVRSWc9PQ",
+            "yuka.UjZvaUd2azQrc0EzbmZjd3dneksvTmRaNjZUMVpYeStNK1VmSVE9PQ",
+            "yuka.WllNTUxib0F2S01odk1BUXhTdnE5UEpVK0xpSlgxNnJJY1VOSWc9PQ",
+            "yuka.UWFFS0lab2RocWNhd3NRWDFVamI0djFGN3JTSFVrL3FKK1VLSVE9PQ",
+            "aleene",
+            "date-limite-app",
+            "clem72650",
+            "daweb",
+            "madsugar",
+            "mael-1960",
+            "diez44",
+            "foodrepo",
+            "hugopeuze",
+            "toinou37130",
+            "jschaeffer",
+            "geraldine-24",
+            "scanbot",
+            "jecrivaine",
+            "annep",
+            "hungergames",
+            "inf",
+            "chevalstar",
+            "gourmet",
+            "hua-anna1",
+            "packbot",
+            "fluff"
+        ],
+        "countries": "Belgien,Frankreich,Deutschland,Réunion,Schweiz",
+        "countries_beforescanbot": "Belgique,France,Suisse, en:reunion",
+        "countries_hierarchy": [
+            "en:belgium",
+            "en:france",
+            "en:germany",
+            "en:reunion",
+            "en:switzerland"
+        ],
+        "countries_lc": "de",
+        "countries_tags": [
+            "en:belgium",
+            "en:france",
+            "en:germany",
+            "en:reunion",
+            "en:switzerland"
+        ],
+        "created_t": 1480173724,
+        "creator": "openfoodfacts-contributors",
+        "data_quality_bugs_tags": [],
+        "data_quality_errors_tags": [
+            "en:nutrition-data-per-serving-serving-quantity-is-0"
+        ],
+        "data_quality_info_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok",
+            "en:all-but-one-ingredient-with-specified-percent",
+            "en:ecoscore-extended-data-not-computed",
+            "en:food-groups-1-known",
+            "en:food-groups-2-known",
+            "en:food-groups-3-unknown"
+        ],
+        "data_quality_tags": [
+            "en:packaging-data-incomplete",
+            "en:ingredients-percent-analysis-ok",
+            "en:all-but-one-ingredient-with-specified-percent",
+            "en:ecoscore-extended-data-not-computed",
+            "en:food-groups-1-known",
+            "en:food-groups-2-known",
+            "en:food-groups-3-unknown",
+            "en:ingredients-unknown-score-above-0",
+            "en:ingredients-100-percent-unknown",
+            "en:serving-quantity-under-1g",
+            "en:serving-quantity-less-than-product-quantity-divided-by-1000",
+            "en:nutrition-data-per-serving-serving-quantity-is-0"
+        ],
+        "data_quality_warnings_tags": [
+            "en:ingredients-unknown-score-above-0",
+            "en:ingredients-100-percent-unknown",
+            "en:serving-quantity-under-1g",
+            "en:serving-quantity-less-than-product-quantity-divided-by-1000"
+        ],
+        "data_sources": "Database - FoodRepo / openfood.ch, Databases, App - off, App - yuka, Apps, App - InFood, App - Open Food Facts",
+        "data_sources_tags": [
+            "database-foodrepo-openfood-ch",
+            "databases",
+            "app-off",
+            "app-yuka",
+            "apps",
+            "app-infood",
+            "app-open-food-facts"
+        ],
+        "debug_param_sorted_langs": [
+            "en",
+            "fr",
+            "pt",
+            "tr"
+        ],
+        "ecoscore_data": {
+            "adjustments": {},
+            "ecoscore_not_applicable_for_category": "en:waters",
+            "status": "unknown"
+        },
+        "ecoscore_grade": "not-applicable",
+        "ecoscore_tags": [
+            "not-applicable"
+        ],
+        "editors_tags": [
+            "yuka.VnBoUVFmUU52Zk1JaWNJUzFTTHQydTVQMTdPa2N6dXNDTzlPSVE9PQ",
+            "hua-anna1",
+            "toinou37130",
+            "hungergames",
+            "mamily",
+            "mael-1960",
+            "julie-yuka",
+            "diez44",
+            "annep",
+            "floriane-yuka",
+            "yuka.VFAwK0hhWTlnZlVPZ2ZJRjV3UG81K0J0bjVyM1dWK1VGN2MvSUE9PQ",
+            "nainformateur",
+            "openfoodfacts-contributors",
+            "aleene",
+            "gourmet",
+            "yuka.UVAwTFRaVS9yZGdUdmZRYTl3Nkl3ZUlzN3FPS1gwS2NJdUF4SUE9PQ",
+            "bredowmax",
+            "packbot",
+            "yuka.U3YwOUtxa211TkF4cGNRbS95L0g0Tjl5KzhPMFQyVHVJc01USWc9PQ",
+            "inf",
+            "yuka.UUk0ZlBiWXNnK1VybjhjUzEwTDdwT050NlllVkJHMm5JcklOSVE9PQ",
+            "yuka.WHE4Y1A3WXFtdE1GbmN3TXBEblpvbzkxNUxtNGRIaXRGZGc2SVE9PQ",
+            "jschaeffer",
+            "yuka.ZEpreFMva2tndmRRbjhNWTRVM1IzdXRLMXJXT1dVbU1NcnNhSVE9PQ",
+            "hugopeuze",
+            "yuka.V3J3R0lvZ3VqY0VUZ2N3a29Uek02djFObjU2VmZHNldFcm95SVE9PQ",
+            "yuka.Vy8wdkU2VWltZGdvdE5zVTd6ckk5LzU0dzQrN1IwS3FkUGNSSWc9PQ",
+            "yuka.UlBBdE1xSVFwTmdody9NNTUwNzcyczB2Mk0rb2R6MnZLY1l4SVE9PQ",
+            "clem72650",
+            "yuka.ZXA0eEc0Z0YvS2cxby9JQXhqYko0dDk2MTdDa1RYK0ZCTzBySVE9PQ",
+            "yuka.Vm81YkNKVUxvZHdRa3ZBZTRCek80TW91eUsrdFZsR21HZTRQSVE9PQ",
+            "foodrepo",
+            "yuka.Uktzd0Zyd2VtOUlEdGRzK3B3elAvL0pJMkpqM0JYaXdLZkJQSUE9PQ",
+            "chevalstar",
+            "daweb",
+            "madsugar",
+            "scanbot",
+            "fayolle",
+            "yuka.VzRvR05yaGN0cWdWb3MwbXBDait3OHRNNjVLQVFHaTNFY2dNSWc9PQ",
+            "date-limite-app",
+            "fluff",
+            "kiliweb",
+            "yuka.UWFFS0lab2RocWNhd3NRWDFVamI0djFGN3JTSFVrL3FKK1VLSVE9PQ",
+            "geraldine-24",
+            "yuka.V3BBSFBZMWZtUG9FdnN3NjBBUEh4UFZ3MTUrVUJWTzREdXRLSVE9PQ",
+            "yuka.UXZFQ1A0c2xvTVlGZ3NBaXp4WDZvZHhxN1pyMFdIUHBKYkVRSWc9PQ",
+            "yuka.ZHBrcUNJb0tpZUJYeThGdnIwaklwTjkwNVlQeVUwM3BPOU1kSVE9PQ",
+            "yuka.UjZvaUd2azQrc0EzbmZjd3dneksvTmRaNjZUMVpYeStNK1VmSVE9PQ",
+            "jecrivaine",
+            "yuka.WllNTUxib0F2S01odk1BUXhTdnE5UEpVK0xpSlgxNnJJY1VOSWc9PQ",
+            "yuka.WGFRYkVvOExncUVvb3ZJOW93TE8vUGRPbTVxYmYxdXhPK2NUSWc9PQ",
+            "yuka.V0tVOERhMEZ1L1VXdnNJaDRUZlZvTUF1L0lQMFkxK1VBYnBCSUE9PQ"
+        ],
+        "emb_codes": "",
+        "emb_codes_orig": "",
+        "emb_codes_tags": [],
+        "entry_dates_tags": [
+            "2016-11-26",
+            "2016-11",
+            "2016"
+        ],
+        "expiration_date": "1 feb. 2019",
+        "food_groups": "en:unsweetened-beverages",
+        "food_groups_tags": [
+            "en:beverages",
+            "en:unsweetened-beverages"
+        ],
+        "fruits-vegetables-nuts_100g_estimate": 0,
+        "generic_name": "",
+        "generic_name_en": "",
+        "generic_name_fr": "eau minérale naturelle renforcée au gaz de la source",
+        "generic_name_pt": "",
+        "generic_name_tr": "",
+        "id": "7613035833272",
+        "image_front_small_url": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_en.149.200.jpg",
+        "image_front_thumb_url": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_en.149.100.jpg",
+        "image_front_url": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_en.149.400.jpg",
+        "image_packaging_small_url": "https://images.openfoodfacts.org/images/products/761/303/583/3272/packaging_en.155.200.jpg",
+        "image_packaging_thumb_url": "https://images.openfoodfacts.org/images/products/761/303/583/3272/packaging_en.155.100.jpg",
+        "image_packaging_url": "https://images.openfoodfacts.org/images/products/761/303/583/3272/packaging_en.155.400.jpg",
+        "image_small_url": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_en.149.200.jpg",
+        "image_thumb_url": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_en.149.100.jpg",
+        "image_url": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_en.149.400.jpg",
+        "images": {
+            "1": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 4032,
+                        "w": 3024
+                    }
+                },
+                "uploaded_t": "1480173724",
+                "uploader": "openfoodfacts-contributors"
+            },
+            "10": {
+                "sizes": {
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                },
+                "uploaded_t": "1528294765",
+                "uploader": "openfoodfacts-contributors"
+            },
+            "11": {
+                "sizes": {
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                },
+                "uploaded_t": "1528294781",
+                "uploader": "openfoodfacts-contributors"
+            },
+            "12": {
+                "sizes": {
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                },
+                "uploaded_t": "1528294815",
+                "uploader": "openfoodfacts-contributors"
+            },
+            "13": {
+                "sizes": {
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                },
+                "uploaded_t": "1528294827",
+                "uploader": "openfoodfacts-contributors"
+            },
+            "14": {
+                "sizes": {
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                },
+                "uploaded_t": "1528738785",
+                "uploader": "openfoodfacts-contributors"
+            },
+            "15": {
+                "sizes": {
+                    "100": {
+                        "h": 56,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 225,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 1125,
+                        "w": 2000
+                    }
+                },
+                "uploaded_t": "1528738817",
+                "uploader": "openfoodfacts-contributors"
+            },
+            "16": {
+                "sizes": {
+                    "100": {
+                        "h": 64,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 256,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 443,
+                        "w": 691
+                    }
+                },
+                "uploaded_t": 1530289597,
+                "uploader": "aleene"
+            },
+            "17": {
+                "sizes": {
+                    "100": {
+                        "h": 30,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 120,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 540,
+                        "w": 1793
+                    }
+                },
+                "uploaded_t": 1530289666,
+                "uploader": "aleene"
+            },
+            "20": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 3174,
+                        "w": 2380
+                    }
+                },
+                "uploaded_t": 1537105827,
+                "uploader": "clem72650"
+            },
+            "21": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 3226,
+                        "w": 2420
+                    }
+                },
+                "uploaded_t": 1537108836,
+                "uploader": "fayolle"
+            },
+            "22": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 3328,
+                        "w": 2496
+                    }
+                },
+                "uploaded_t": 1537616581,
+                "uploader": "openfoodfacts-contributors"
+            },
+            "23": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 56
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 225
+                    },
+                    "full": {
+                        "h": 3328,
+                        "w": 1868
+                    }
+                },
+                "uploaded_t": 1537717715,
+                "uploader": "openfoodfacts-contributors"
+            },
+            "24": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 3264,
+                        "w": 2448
+                    }
+                },
+                "uploaded_t": 1537969759,
+                "uploader": "openfoodfacts-contributors"
+            },
+            "25": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 3264,
+                        "w": 2448
+                    }
+                },
+                "uploaded_t": 1540033900,
+                "uploader": "openfoodfacts-contributors"
+            },
+            "26": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 56
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 225
+                    },
+                    "full": {
+                        "h": 3555,
+                        "w": 2000
+                    }
+                },
+                "uploaded_t": "1499364847",
+                "uploader": "openfoodfacts-contributors"
+            },
+            "27": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 60
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 240
+                    },
+                    "full": {
+                        "h": 2048,
+                        "w": 1228
+                    }
+                },
+                "uploaded_t": "1536899541",
+                "uploader": "mael-1960"
+            },
+            "28": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 3264,
+                        "w": 2448
+                    }
+                },
+                "uploaded_t": 1545687727,
+                "uploader": "openfoodfacts-contributors"
+            },
+            "29": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 4032,
+                        "w": 3024
+                    }
+                },
+                "uploaded_t": 1549641370,
+                "uploader": "openfoodfacts-contributors"
+            },
+            "3": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 1360,
+                        "w": 1021
+                    }
+                },
+                "uploaded_t": "1494251931",
+                "uploader": "kiliweb"
+            },
+            "31": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 4096,
+                        "w": 3072
+                    }
+                },
+                "uploaded_t": 1554319614,
+                "uploader": "openfoodfacts-contributors"
+            },
+            "32": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 34
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 137
+                    },
+                    "full": {
+                        "h": 5074,
+                        "w": 1737
+                    }
+                },
+                "uploaded_t": 1554319643,
+                "uploader": "openfoodfacts-contributors"
+            },
+            "35": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 56
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 225
+                    },
+                    "full": {
+                        "h": 4250,
+                        "w": 2391
+                    }
+                },
+                "uploaded_t": 1559754621,
+                "uploader": "openfoodfacts-contributors"
+            },
+            "36": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 31
+                    },
+                    "400": {
+                        "h": 327,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 327,
+                        "w": 100
+                    }
+                },
+                "uploaded_t": 1561118174,
+                "uploader": "date-limite-app"
+            },
+            "37": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 31
+                    },
+                    "400": {
+                        "h": 327,
+                        "w": 100
+                    },
+                    "full": {
+                        "h": 327,
+                        "w": 100
+                    }
+                },
+                "uploaded_t": 1572619030,
+                "uploader": "date-limite-app"
+            },
+            "38": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 56
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 225
+                    },
+                    "full": {
+                        "h": 2611,
+                        "w": 1469
+                    }
+                },
+                "uploaded_t": "1545816960",
+                "uploader": "nainformateur"
+            },
+            "39": {
+                "sizes": {
+                    "100": {
+                        "h": 35,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 141,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 1154,
+                        "w": 3264
+                    }
+                },
+                "uploaded_t": "1545817210",
+                "uploader": "nainformateur"
+            },
+            "4": {
+                "sizes": {
+                    "100": {
+                        "h": 68,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 274,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 1652,
+                        "w": 2414
+                    }
+                },
+                "uploaded_t": "1494251932",
+                "uploader": "kiliweb"
+            },
+            "40": {
+                "sizes": {
+                    "100": {
+                        "h": 17,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 69,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 563,
+                        "w": 3264
+                    }
+                },
+                "uploaded_t": "1545817287",
+                "uploader": "nainformateur"
+            },
+            "41": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 4032,
+                        "w": 3024
+                    }
+                },
+                "uploaded_t": "1562880824",
+                "uploader": "openfoodfacts-contributors"
+            },
+            "42": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 901
+                    }
+                },
+                "uploaded_t": "1543690752",
+                "uploader": "kiliweb"
+            },
+            "43": {
+                "sizes": {
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 1602
+                    }
+                },
+                "uploaded_t": "1543690753",
+                "uploader": "kiliweb"
+            },
+            "44": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 900
+                    }
+                },
+                "uploaded_t": "1553962239",
+                "uploader": "kiliweb"
+            },
+            "45": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 1200,
+                        "w": 899
+                    }
+                },
+                "uploaded_t": "1553962242",
+                "uploader": "kiliweb"
+            },
+            "46": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 4032,
+                        "w": 3024
+                    }
+                },
+                "uploaded_t": 1595850913,
+                "uploader": "hungergames"
+            },
+            "47": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 4032,
+                        "w": 3024
+                    }
+                },
+                "uploaded_t": 1595850998,
+                "uploader": "hungergames"
+            },
+            "48": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 3968,
+                        "w": 2976
+                    }
+                },
+                "uploaded_t": 1605048415,
+                "uploader": "openfoodfacts-contributors"
+            },
+            "49": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 28
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 114
+                    },
+                    "full": {
+                        "h": 532,
+                        "w": 151
+                    }
+                },
+                "uploaded_t": 1608884219,
+                "uploader": "gourmet"
+            },
+            "5": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 1360,
+                        "w": 1019
+                    }
+                },
+                "uploaded_t": "1515190725",
+                "uploader": "kiliweb"
+            },
+            "50": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 4032,
+                        "w": 3024
+                    }
+                },
+                "uploaded_t": 1610280229,
+                "uploader": "hua-anna1"
+            },
+            "51": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 4032,
+                        "w": 3024
+                    }
+                },
+                "uploaded_t": 1629536053,
+                "uploader": "openfoodfacts-contributors"
+            },
+            "6": {
+                "sizes": {
+                    "100": {
+                        "h": 83,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 333,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 2514,
+                        "w": 3024
+                    }
+                },
+                "uploaded_t": "1515321241",
+                "uploader": "kiliweb"
+            },
+            "7": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 3263,
+                        "w": 2448
+                    }
+                },
+                "uploaded_t": "1517667201",
+                "uploader": "kiliweb"
+            },
+            "8": {
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 50
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 201
+                    },
+                    "full": {
+                        "h": 1360,
+                        "w": 685
+                    }
+                },
+                "uploaded_t": "1518383819",
+                "uploader": "kiliweb"
+            },
+            "9": {
+                "sizes": {
+                    "100": {
+                        "h": 75,
+                        "w": 100
+                    },
+                    "400": {
+                        "h": 300,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 1500,
+                        "w": 2000
+                    }
+                },
+                "uploaded_t": "1522679516",
+                "uploader": "mamily"
+            },
+            "front_en": {
+                "angle": "0",
+                "coordinates_image_size": "full",
+                "geometry": "0x0-0-0",
+                "imgid": "49",
+                "normalize": "false",
+                "rev": "149",
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 28
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 57
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 114
+                    },
+                    "full": {
+                        "h": 532,
+                        "w": 151
+                    }
+                },
+                "white_magic": "false",
+                "x1": "0",
+                "x2": "0",
+                "y1": "0",
+                "y2": "0"
+            },
+            "front_fr": {
+                "angle": "0",
+                "coordinates_image_size": "full",
+                "geometry": "0x0-0-0",
+                "imgid": "49",
+                "normalize": "false",
+                "rev": "150",
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 28
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 57
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 114
+                    },
+                    "full": {
+                        "h": 532,
+                        "w": 151
+                    }
+                },
+                "white_magic": "false",
+                "x1": "0",
+                "x2": "0",
+                "y1": "0",
+                "y2": "0"
+            },
+            "front_pt": {
+                "angle": "0",
+                "coordinates_image_size": "full",
+                "geometry": "0x0-0-0",
+                "imgid": "49",
+                "normalize": "false",
+                "rev": "151",
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 28
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 57
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 114
+                    },
+                    "full": {
+                        "h": 532,
+                        "w": 151
+                    }
+                },
+                "white_magic": "false",
+                "x1": "0",
+                "x2": "0",
+                "y1": "0",
+                "y2": "0"
+            },
+            "front_tr": {
+                "angle": "0",
+                "coordinates_image_size": "full",
+                "geometry": "0x0-0-0",
+                "imgid": "49",
+                "normalize": "false",
+                "rev": "152",
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 28
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 57
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 114
+                    },
+                    "full": {
+                        "h": 532,
+                        "w": 151
+                    }
+                },
+                "white_magic": "false",
+                "x1": "0",
+                "x2": "0",
+                "y1": "0",
+                "y2": "0"
+            },
+            "nutrition_fr": {
+                "angle": "270",
+                "geometry": "1319x473-13-192",
+                "imgid": "8",
+                "normalize": "false",
+                "ocr": 1,
+                "orientation": "0",
+                "rev": "118",
+                "sizes": {
+                    "100": {
+                        "h": 36,
+                        "w": 100
+                    },
+                    "200": {
+                        "h": 72,
+                        "w": 200
+                    },
+                    "400": {
+                        "h": 143,
+                        "w": 400
+                    },
+                    "full": {
+                        "h": 473,
+                        "w": 1319
+                    }
+                },
+                "white_magic": "false",
+                "x1": "4.000000000000001",
+                "x2": "392.00000000000006",
+                "y1": "56.38333129882813",
+                "y2": "195.38333129882815"
+            },
+            "packaging_en": {
+                "angle": 0,
+                "coordinates_image_size": "full",
+                "geometry": "0x0--1--1",
+                "imgid": "50",
+                "normalize": null,
+                "rev": "155",
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 150
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 300
+                    },
+                    "full": {
+                        "h": 4032,
+                        "w": 3024
+                    }
+                },
+                "white_magic": null,
+                "x1": "-1",
+                "x2": "-1",
+                "y1": "-1",
+                "y2": "-1"
+            }
+        },
+        "informers_tags": [
+            "openfoodfacts-contributors",
+            "kiliweb",
+            "aleene",
+            "madsugar",
+            "date-limite-app",
+            "jschaeffer",
+            "geraldine-24",
+            "jecrivaine",
+            "inf",
+            "hungergames",
+            "gourmet",
+            "hua-anna1",
+            "fluff"
+        ],
+        "ingredients": [
+            {
+                "id": "en:mineral water natural enhanced gas",
+                "percent_estimate": 100,
+                "percent_max": 100,
+                "percent_min": 100,
+                "rank": 1,
+                "text": "mineral water natural enhanced gas"
+            }
+        ],
+        "ingredients_analysis": {
+            "en:palm-oil-content-unknown": [
+                "en:mineral water natural enhanced gas"
+            ],
+            "en:vegan-status-unknown": [
+                "en:mineral water natural enhanced gas"
+            ],
+            "en:vegetarian-status-unknown": [
+                "en:mineral water natural enhanced gas"
+            ]
+        },
+        "ingredients_analysis_tags": [
+            "en:palm-oil-content-unknown",
+            "en:vegan-status-unknown",
+            "en:vegetarian-status-unknown"
+        ],
+        "ingredients_debug": [],
+        "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+        "ingredients_from_palm_oil_n": 0,
+        "ingredients_from_palm_oil_tags": [],
+        "ingredients_hierarchy": [
+            "en:mineral water natural enhanced gas"
+        ],
+        "ingredients_ids_debug": [],
+        "ingredients_n": "1",
+        "ingredients_n_tags": [
+            "1",
+            "1-10"
+        ],
+        "ingredients_original_tags": [
+            "en:mineral water natural enhanced gas"
+        ],
+        "ingredients_percent_analysis": 1,
+        "ingredients_tags": [
+            "en:mineral-water-natural-enhanced-gas"
+        ],
+        "ingredients_text": "mineral water natural enhanced gas",
+        "ingredients_text_debug": "",
+        "ingredients_text_debug_tags": [],
+        "ingredients_text_en": "mineral water natural enhanced gas",
+        "ingredients_text_fr": "EAU MINERALE NATURELLE RENFORCEE AU GAZ DE LA SOURCE",
+        "ingredients_text_pt": "",
+        "ingredients_text_tr": "",
+        "ingredients_text_with_allergens": "mineral water natural enhanced gas",
+        "ingredients_text_with_allergens_en": "mineral water natural enhanced gas",
+        "ingredients_text_with_allergens_fr": "EAU MINERALE NATURELLE RENFORCEE AU GAZ DE LA SOURCE",
+        "ingredients_text_with_allergens_pt": "",
+        "ingredients_text_with_allergens_tr": "",
+        "ingredients_that_may_be_from_palm_oil_n": 0,
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "ingredients_with_specified_percent_n": 0,
+        "ingredients_with_specified_percent_sum": 0,
+        "ingredients_with_unspecified_percent_n": 1,
+        "ingredients_with_unspecified_percent_sum": 100,
+        "interface_version_created": "20120622",
+        "interface_version_modified": "20190830",
+        "known_ingredients_n": 0,
+        "labels": "Grüner Punkt",
+        "labels_hierarchy": [
+            "en:green-dot"
+        ],
+        "labels_lc": "de",
+        "labels_old": "",
+        "labels_tags": [
+            "en:green-dot"
+        ],
+        "lang": "en",
+        "languages": {
+            "en:english": 3,
+            "en:french": 5,
+            "en:portuguese": 1,
+            "en:turkish": 1
+        },
+        "languages_codes": {
+            "en": 3,
+            "fr": 5,
+            "pt": 1,
+            "tr": 1
+        },
+        "languages_hierarchy": [
+            "en:french",
+            "en:turkish",
+            "en:english",
+            "en:portuguese"
+        ],
+        "languages_tags": [
+            "en:french",
+            "en:turkish",
+            "en:english",
+            "en:portuguese",
+            "en:4",
+            "en:multilingual"
+        ],
+        "last_edit_dates_tags": [
+            "2022-03-26",
+            "2022-03",
+            "2022"
+        ],
+        "last_editor": "fluff",
+        "last_image_dates_tags": [
+            "2021-08-21",
+            "2021-08",
+            "2021"
+        ],
+        "last_image_t": 1629536055,
+        "last_modified_by": "fluff",
+        "last_modified_t": 1648332483,
+        "lc": "en",
+        "link": "https://www.perrier.com/",
+        "main_countries_tags": [],
+        "manufacturing_places": "France",
+        "manufacturing_places_tags": [
+            "france"
+        ],
+        "max_imgid": "51",
+        "minerals_prev_tags": [],
+        "minerals_tags": [],
+        "misc_tags": [
+            "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+            "en:nutrition-all-nutriscore-values-known",
+            "en:nutriscore-computed",
+            "en:ecoscore-extended-data-not-computed",
+            "en:ecoscore-not-applicable",
+            "en:ecoscore-not-computed",
+            "en:main-countries-de-unexpectedly-low-scans",
+            "en:main-countries-de-unexpectedly-low-scans-0-10-percent-of-expected",
+            "en:main-countries-de-unexpectedly-low-scans-and-no-data-in-country-language",
+            "en:main-countries-de-product-name-not-in-country-language",
+            "en:main-countries-de-ingredients-not-in-country-language",
+            "en:main-countries-de-no-data-in-country-language",
+            "en:main-countries-ch-unexpectedly-low-scans",
+            "en:main-countries-ch-unexpectedly-low-scans-0-10-percent-of-expected"
+        ],
+        "no_nutrition_data": "",
+        "nova_group_debug": "no nova group if too many ingredients are unknown: 1 out of 1",
+        "nova_group_tags": [
+            "not-applicable"
+        ],
+        "nucleotides_prev_tags": [],
+        "nucleotides_tags": [],
+        "nutrient_levels": {},
+        "nutrient_levels_tags": [],
+        "nutriments": {
+            "calcium": 0.16,
+            "calcium_serving": 0.16,
+            "calcium_unit": "mg",
+            "calcium_value": 160,
+            "chloride": 0.022,
+            "chloride_serving": 0.022,
+            "chloride_unit": "mg",
+            "chloride_value": 22,
+            "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0,
+            "fruits-vegetables-nuts-estimate-from-ingredients_serving": 0,
+            "magnesium": 0.0042,
+            "magnesium_serving": 0.0042,
+            "magnesium_unit": "mg",
+            "magnesium_value": 4.2,
+            "nutrition-score-fr": 0,
+            "nutrition-score-fr_100g": 0,
+            "potassium": 0.001,
+            "potassium_serving": 0.001,
+            "potassium_unit": "mg",
+            "potassium_value": 1,
+            "salt": 0.02413,
+            "salt_serving": 0.02413,
+            "salt_unit": "mg",
+            "salt_value": 24.13,
+            "sodium": 0.009652,
+            "sodium_serving": 0.009652,
+            "sodium_unit": "mg",
+            "sodium_value": 9.652
+        },
+        "nutriscore_data": {
+            "energy": null,
+            "energy_points": 0,
+            "energy_value": 0,
+            "fiber": 0,
+            "fiber_points": 0,
+            "fiber_value": 0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils": 0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+            "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 0,
+            "grade": "a",
+            "is_beverage": 1,
+            "is_cheese": 0,
+            "is_fat": 0,
+            "is_water": "1",
+            "negative_points": 0,
+            "positive_points": 0,
+            "proteins": null,
+            "proteins_points": 0,
+            "proteins_value": 0,
+            "saturated_fat": null,
+            "saturated_fat_points": 0,
+            "saturated_fat_ratio": 0,
+            "saturated_fat_ratio_points": 0,
+            "saturated_fat_ratio_value": 0,
+            "saturated_fat_value": 0,
+            "score": 0,
+            "sodium": 0,
+            "sodium_points": 0,
+            "sodium_value": 0,
+            "sugars": null,
+            "sugars_points": 0,
+            "sugars_value": 0
+        },
+        "nutriscore_grade": "a",
+        "nutriscore_score": 0,
+        "nutriscore_score_opposite": 0,
+        "nutrition_data": "on",
+        "nutrition_data_per": "serving",
+        "nutrition_data_prepared": "",
+        "nutrition_data_prepared_per": "100g",
+        "nutrition_grade_fr": "a",
+        "nutrition_grades": "a",
+        "nutrition_grades_tags": [
+            "a"
+        ],
+        "nutrition_score_beverage": 1,
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+        "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 0,
+        "obsolete": "",
+        "obsolete_since_date": "",
+        "origin": "",
+        "origin_en": "",
+        "origin_fr": "",
+        "origin_pt": "",
+        "origin_tr": "",
+        "origins": "",
+        "origins_fr": "",
+        "origins_hierarchy": [],
+        "origins_lc": "de",
+        "origins_old": "",
+        "origins_tags": [],
+        "other_nutritional_substances_prev_tags": [],
+        "other_nutritional_substances_tags": [],
+        "packaging": "Kunststoff,PET - Polyethylenterephtalat",
+        "packaging_hierarchy": [
+            "en:plastic",
+            "en:pet-polyethylene-terephthalate"
+        ],
+        "packaging_lc": "de",
+        "packaging_old": "Plastic, PET - Polyethylene terephthalate",
+        "packaging_old_before_taxonomization": "01 PET",
+        "packaging_tags": [
+            "en:plastic",
+            "en:pet-polyethylene-terephthalate"
+        ],
+        "packaging_text": "",
+        "packaging_text_en": "",
+        "packaging_text_fr": "",
+        "packaging_text_pt": "",
+        "packaging_text_tr": "",
+        "packagings": [
+            {
+                "material": "en:pet-polyethylene-terephthalate"
+            }
+        ],
+        "photographers_tags": [
+            "openfoodfacts-contributors",
+            "kiliweb",
+            "mamily",
+            "aleene",
+            "clem72650",
+            "fayolle",
+            "mael-1960",
+            "date-limite-app",
+            "nainformateur",
+            "hungergames",
+            "gourmet",
+            "hua-anna1"
+        ],
+        "pnns_groups_1": "Beverages",
+        "pnns_groups_1_tags": [
+            "beverages",
+            "known"
+        ],
+        "pnns_groups_2": "Waters and flavored waters",
+        "pnns_groups_2_tags": [
+            "waters-and-flavored-waters",
+            "known"
+        ],
+        "popularity_key": 20999900596,
+        "popularity_tags": [
+            "top-50-scans-2019",
+            "top-100-scans-2019",
+            "top-500-scans-2019",
+            "top-1000-scans-2019",
+            "top-5000-scans-2019",
+            "top-10000-scans-2019",
+            "top-50000-scans-2019",
+            "top-100000-scans-2019",
+            "at-least-5-scans-2019",
+            "at-least-10-scans-2019",
+            "top-75-percent-scans-2019",
+            "top-80-percent-scans-2019",
+            "top-85-percent-scans-2019",
+            "top-90-percent-scans-2019",
+            "top-50-fr-scans-2019",
+            "top-100-fr-scans-2019",
+            "top-500-fr-scans-2019",
+            "top-1000-fr-scans-2019",
+            "top-5000-fr-scans-2019",
+            "top-10000-fr-scans-2019",
+            "top-50000-fr-scans-2019",
+            "top-100000-fr-scans-2019",
+            "top-country-fr-scans-2019",
+            "at-least-5-fr-scans-2019",
+            "at-least-10-fr-scans-2019",
+            "top-100-be-scans-2019",
+            "top-500-be-scans-2019",
+            "top-1000-be-scans-2019",
+            "top-5000-be-scans-2019",
+            "top-10000-be-scans-2019",
+            "top-50000-be-scans-2019",
+            "top-100000-be-scans-2019",
+            "at-least-5-be-scans-2019",
+            "at-least-10-be-scans-2019",
+            "top-100-re-scans-2019",
+            "top-500-re-scans-2019",
+            "top-1000-re-scans-2019",
+            "top-5000-re-scans-2019",
+            "top-10000-re-scans-2019",
+            "top-50000-re-scans-2019",
+            "top-100000-re-scans-2019",
+            "at-least-5-re-scans-2019",
+            "at-least-10-re-scans-2019",
+            "top-5000-ch-scans-2019",
+            "top-10000-ch-scans-2019",
+            "top-50000-ch-scans-2019",
+            "top-100000-ch-scans-2019",
+            "at-least-5-ch-scans-2019",
+            "top-10000-de-scans-2019",
+            "top-50000-de-scans-2019",
+            "top-100000-de-scans-2019",
+            "at-least-5-de-scans-2019",
+            "top-50-gf-scans-2019",
+            "top-100-gf-scans-2019",
+            "top-500-gf-scans-2019",
+            "top-1000-gf-scans-2019",
+            "top-5000-gf-scans-2019",
+            "top-10000-gf-scans-2019",
+            "top-50000-gf-scans-2019",
+            "top-100000-gf-scans-2019",
+            "top-500-lu-scans-2019",
+            "top-1000-lu-scans-2019",
+            "top-5000-lu-scans-2019",
+            "top-10000-lu-scans-2019",
+            "top-50000-lu-scans-2019",
+            "top-100000-lu-scans-2019",
+            "top-500-nc-scans-2019",
+            "top-1000-nc-scans-2019",
+            "top-5000-nc-scans-2019",
+            "top-10000-nc-scans-2019",
+            "top-50000-nc-scans-2019",
+            "top-100000-nc-scans-2019",
+            "top-5000-gb-scans-2019",
+            "top-10000-gb-scans-2019",
+            "top-50000-gb-scans-2019",
+            "top-100000-gb-scans-2019",
+            "top-500-sg-scans-2019",
+            "top-1000-sg-scans-2019",
+            "top-5000-sg-scans-2019",
+            "top-10000-sg-scans-2019",
+            "top-50000-sg-scans-2019",
+            "top-100000-sg-scans-2019",
+            "top-5000-us-scans-2019",
+            "top-10000-us-scans-2019",
+            "top-50000-us-scans-2019",
+            "top-100000-us-scans-2019",
+            "top-50000-es-scans-2019",
+            "top-100000-es-scans-2019",
+            "top-5000-ca-scans-2019",
+            "top-10000-ca-scans-2019",
+            "top-50000-ca-scans-2019",
+            "top-100000-ca-scans-2019",
+            "top-100-scans-2020",
+            "top-500-scans-2020",
+            "top-1000-scans-2020",
+            "top-5000-scans-2020",
+            "top-10000-scans-2020",
+            "top-50000-scans-2020",
+            "top-100000-scans-2020",
+            "at-least-5-scans-2020",
+            "at-least-10-scans-2020",
+            "top-75-percent-scans-2020",
+            "top-80-percent-scans-2020",
+            "top-85-percent-scans-2020",
+            "top-90-percent-scans-2020",
+            "top-100-fr-scans-2020",
+            "top-500-fr-scans-2020",
+            "top-1000-fr-scans-2020",
+            "top-5000-fr-scans-2020",
+            "top-10000-fr-scans-2020",
+            "top-50000-fr-scans-2020",
+            "top-100000-fr-scans-2020",
+            "top-country-fr-scans-2020",
+            "at-least-5-fr-scans-2020",
+            "at-least-10-fr-scans-2020",
+            "top-500-be-scans-2020",
+            "top-1000-be-scans-2020",
+            "top-5000-be-scans-2020",
+            "top-10000-be-scans-2020",
+            "top-50000-be-scans-2020",
+            "top-100000-be-scans-2020",
+            "at-least-5-be-scans-2020",
+            "at-least-10-be-scans-2020",
+            "top-1000-re-scans-2020",
+            "top-5000-re-scans-2020",
+            "top-10000-re-scans-2020",
+            "top-50000-re-scans-2020",
+            "top-100000-re-scans-2020",
+            "top-500-lu-scans-2020",
+            "top-1000-lu-scans-2020",
+            "top-5000-lu-scans-2020",
+            "top-10000-lu-scans-2020",
+            "top-50000-lu-scans-2020",
+            "top-100000-lu-scans-2020",
+            "top-5000-ch-scans-2020",
+            "top-10000-ch-scans-2020",
+            "top-50000-ch-scans-2020",
+            "top-100000-ch-scans-2020",
+            "top-5000-mq-scans-2020",
+            "top-10000-mq-scans-2020",
+            "top-50000-mq-scans-2020",
+            "top-100000-mq-scans-2020",
+            "top-1000-gp-scans-2020",
+            "top-5000-gp-scans-2020",
+            "top-10000-gp-scans-2020",
+            "top-50000-gp-scans-2020",
+            "top-100000-gp-scans-2020",
+            "top-5000-nl-scans-2020",
+            "top-10000-nl-scans-2020",
+            "top-50000-nl-scans-2020",
+            "top-100000-nl-scans-2020",
+            "top-5000-it-scans-2020",
+            "top-10000-it-scans-2020",
+            "top-50000-it-scans-2020",
+            "top-100000-it-scans-2020",
+            "top-5000-ro-scans-2020",
+            "top-10000-ro-scans-2020",
+            "top-50000-ro-scans-2020",
+            "top-100000-ro-scans-2020",
+            "top-500-eg-scans-2020",
+            "top-1000-eg-scans-2020",
+            "top-5000-eg-scans-2020",
+            "top-10000-eg-scans-2020",
+            "top-50000-eg-scans-2020",
+            "top-100000-eg-scans-2020",
+            "top-5000-pt-scans-2020",
+            "top-10000-pt-scans-2020",
+            "top-50000-pt-scans-2020",
+            "top-100000-pt-scans-2020",
+            "top-50000-gb-scans-2020",
+            "top-100000-gb-scans-2020",
+            "top-10000-us-scans-2020",
+            "top-50000-us-scans-2020",
+            "top-100000-us-scans-2020",
+            "top-5000-nc-scans-2020",
+            "top-10000-nc-scans-2020",
+            "top-50000-nc-scans-2020",
+            "top-100000-nc-scans-2020",
+            "top-5000-se-scans-2020",
+            "top-10000-se-scans-2020",
+            "top-50000-se-scans-2020",
+            "top-100000-se-scans-2020",
+            "top-100-scans-2021",
+            "top-500-scans-2021",
+            "top-1000-scans-2021",
+            "top-5000-scans-2021",
+            "top-10000-scans-2021",
+            "top-50000-scans-2021",
+            "top-100000-scans-2021",
+            "at-least-5-scans-2021",
+            "at-least-10-scans-2021",
+            "top-75-percent-scans-2021",
+            "top-80-percent-scans-2021",
+            "top-85-percent-scans-2021",
+            "top-90-percent-scans-2021",
+            "top-100-fr-scans-2021",
+            "top-500-fr-scans-2021",
+            "top-1000-fr-scans-2021",
+            "top-5000-fr-scans-2021",
+            "top-10000-fr-scans-2021",
+            "top-50000-fr-scans-2021",
+            "top-100000-fr-scans-2021",
+            "top-country-fr-scans-2021",
+            "at-least-5-fr-scans-2021",
+            "at-least-10-fr-scans-2021",
+            "top-1000-be-scans-2021",
+            "top-5000-be-scans-2021",
+            "top-10000-be-scans-2021",
+            "top-50000-be-scans-2021",
+            "top-100000-be-scans-2021",
+            "at-least-5-be-scans-2021",
+            "top-500-re-scans-2021",
+            "top-1000-re-scans-2021",
+            "top-5000-re-scans-2021",
+            "top-10000-re-scans-2021",
+            "top-50000-re-scans-2021",
+            "top-100000-re-scans-2021",
+            "top-500-gp-scans-2021",
+            "top-1000-gp-scans-2021",
+            "top-5000-gp-scans-2021",
+            "top-10000-gp-scans-2021",
+            "top-50000-gp-scans-2021",
+            "top-100000-gp-scans-2021",
+            "top-500-mq-scans-2021",
+            "top-1000-mq-scans-2021",
+            "top-5000-mq-scans-2021",
+            "top-10000-mq-scans-2021",
+            "top-50000-mq-scans-2021",
+            "top-100000-mq-scans-2021",
+            "top-1000-nc-scans-2021",
+            "top-5000-nc-scans-2021",
+            "top-10000-nc-scans-2021",
+            "top-50000-nc-scans-2021",
+            "top-100000-nc-scans-2021",
+            "top-10000-us-scans-2021",
+            "top-50000-us-scans-2021",
+            "top-100000-us-scans-2021",
+            "top-5000-lu-scans-2021",
+            "top-10000-lu-scans-2021",
+            "top-50000-lu-scans-2021",
+            "top-100000-lu-scans-2021",
+            "top-50000-es-scans-2021",
+            "top-100000-es-scans-2021",
+            "top-10000-nl-scans-2021",
+            "top-50000-nl-scans-2021",
+            "top-100000-nl-scans-2021",
+            "top-5000-ro-scans-2021",
+            "top-10000-ro-scans-2021",
+            "top-50000-ro-scans-2021",
+            "top-100000-ro-scans-2021",
+            "top-50000-gb-scans-2021",
+            "top-100000-gb-scans-2021",
+            "top-50000-de-scans-2021",
+            "top-100000-de-scans-2021"
+        ],
+        "product_name": "Perrier",
+        "product_name_en": "Perrier",
+        "product_name_fr": "Perrier",
+        "product_name_pt": "",
+        "product_name_tr": "",
+        "product_quantity": "1000",
+        "purchase_places": "",
+        "purchase_places_tags": [],
+        "quantity": "1 l",
+        "removed_countries_tags": [],
+        "rev": 159,
+        "scans_n": 942,
+        "selected_images": {
+            "front": {
+                "display": {
+                    "en": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_en.149.400.jpg",
+                    "fr": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_fr.150.400.jpg",
+                    "pt": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_pt.151.400.jpg",
+                    "tr": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_tr.152.400.jpg"
+                },
+                "small": {
+                    "en": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_en.149.200.jpg",
+                    "fr": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_fr.150.200.jpg",
+                    "pt": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_pt.151.200.jpg",
+                    "tr": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_tr.152.200.jpg"
+                },
+                "thumb": {
+                    "en": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_en.149.100.jpg",
+                    "fr": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_fr.150.100.jpg",
+                    "pt": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_pt.151.100.jpg",
+                    "tr": "https://images.openfoodfacts.org/images/products/761/303/583/3272/front_tr.152.100.jpg"
+                }
+            },
+            "nutrition": {
+                "display": {
+                    "fr": "https://images.openfoodfacts.org/images/products/761/303/583/3272/nutrition_fr.118.400.jpg"
+                },
+                "small": {
+                    "fr": "https://images.openfoodfacts.org/images/products/761/303/583/3272/nutrition_fr.118.200.jpg"
+                },
+                "thumb": {
+                    "fr": "https://images.openfoodfacts.org/images/products/761/303/583/3272/nutrition_fr.118.100.jpg"
+                }
+            },
+            "packaging": {
+                "display": {
+                    "en": "https://images.openfoodfacts.org/images/products/761/303/583/3272/packaging_en.155.400.jpg"
+                },
+                "small": {
+                    "en": "https://images.openfoodfacts.org/images/products/761/303/583/3272/packaging_en.155.200.jpg"
+                },
+                "thumb": {
+                    "en": "https://images.openfoodfacts.org/images/products/761/303/583/3272/packaging_en.155.100.jpg"
+                }
+            }
+        },
+        "serving_quantity": "0",
+        "serving_size": "serving",
+        "sortkey": 1610280253,
+        "sources": [
+            {
+                "fields": [
+                    "countries"
+                ],
+                "id": "openfood-ch",
+                "images": [],
+                "import_t": 1548770956,
+                "manufacturer": "0",
+                "name": "FoodRepo",
+                "source_licence": "Creative Commons Attribution 4.0 International License",
+                "source_licence_url": "https://creativecommons.org/licenses/by/4.0/",
+                "url": "https://www.foodrepo.org/ch/products/28071"
+            }
+        ],
+        "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:origins-to-be-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:packaging-photo-selected, en:nutrition-photo-to-be-selected, en:ingredients-photo-to-be-selected, en:front-photo-selected, en:photos-uploaded",
+        "states_hierarchy": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-to-be-completed",
+            "en:origins-to-be-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-selected",
+            "en:nutrition-photo-to-be-selected",
+            "en:ingredients-photo-to-be-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "states_tags": [
+            "en:to-be-completed",
+            "en:nutrition-facts-completed",
+            "en:ingredients-completed",
+            "en:expiration-date-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-to-be-completed",
+            "en:origins-to-be-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:packaging-photo-selected",
+            "en:nutrition-photo-to-be-selected",
+            "en:ingredients-photo-to-be-selected",
+            "en:front-photo-selected",
+            "en:photos-uploaded"
+        ],
+        "stores": "",
+        "stores_tags": [],
+        "teams": "pain-au-chocolat",
+        "teams_tags": [
+            "pain-au-chocolat"
+        ],
+        "traces": "",
+        "traces_from_ingredients": "",
+        "traces_from_user": "(de) ",
+        "traces_hierarchy": [],
+        "traces_lc": "de",
+        "traces_tags": [],
+        "unique_scans_n": 591,
+        "unknown_ingredients_n": "1",
+        "unknown_nutrients_tags": [],
+        "update_key": "ing20220322",
+        "vitamins_prev_tags": [],
+        "vitamins_tags": []
+    },
+    "status": 1,
+    "status_verbose": "product found"
+}
