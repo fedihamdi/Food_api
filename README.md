@@ -1,7 +1,7 @@
 # Membre du groupe
 Nom - Prenom - Email
 
-HAMDI - Fedi - f_hamdi@hetic.eu
+HAMDI - Fedi - fedihamdi@yahoo.com
 
 DOUZI - Ali - a_douzi@hetic.eu
 
