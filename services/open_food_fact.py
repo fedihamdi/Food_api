@@ -1,4 +1,4 @@
-
+# Collecting schedule
 import requests
 
 class OpenFoodFact:
